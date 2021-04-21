@@ -19,3 +19,5 @@ I collected my data from UNICEF. Most countries in sub-Saharan Africa have made 
 
 Processing Steps
 
+I started by wanting to use the data of how many percentages of people per country in sub-Sahara Africa got infected with Malaria. This data was not completed because it did not come with headings. I added headers to it, but I changed my mind to go with Malaria is control in Africa by the use of Tent. The data I used came with a .csv file.
+
