@@ -21,3 +21,17 @@ Processing Steps
 
 I started by wanting to use the data of how many percentages of people per country in sub-Sahara Africa got infected with Malaria. This data was not completed because it did not come with headings. I added headers to it, but I changed my mind to go with Malaria is control in Africa by the use of Tent. The data I used came with a .csv file.
 
+
+VIsualization
+looking at my visualization since 2007, the percentage of children sleeping under ITNs in sub-Saharan Africa increased from less than 40 per cent to over 50 per cent. But despite recent progress in sub-Saharan Africa, the overall use of treated mosquito nets falls short of the global target of universal coverage, and many children are not benefiting from this potentially life-saving intervention.
+
+
+
+
+Analysis
+
+Looking at the data  what i called life saving intervention has been of great help to the population of Africa. Poeple are still suffering from malaria, but early diagnosis and treatment are essential for more favourable malaria outcomes. 
+
+
+Descriptions of Code and Materials
+The raw data downloaded from the sources described above are uploaded in .csv 
